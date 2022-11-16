@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AfstuderenWeb", "AfstuderenWeb\AfstuderenWeb.csproj", "{62F359C5-5FC0-45C4-B0AD-889B7E2BABBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Afstuderen.Domain", "Afstuderen.Domain\Afstuderen.Domain.csproj", "{F5F73C8A-F2B1-4CEF-B222-B8C2F4280E3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62F359C5-5FC0-45C4-B0AD-889B7E2BABBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62F359C5-5FC0-45C4-B0AD-889B7E2BABBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62F359C5-5FC0-45C4-B0AD-889B7E2BABBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62F359C5-5FC0-45C4-B0AD-889B7E2BABBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5F73C8A-F2B1-4CEF-B222-B8C2F4280E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5F73C8A-F2B1-4CEF-B222-B8C2F4280E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5F73C8A-F2B1-4CEF-B222-B8C2F4280E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5F73C8A-F2B1-4CEF-B222-B8C2F4280E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2782C63-CE71-479D-9475-3E18811871FE}
+	EndGlobalSection
+EndGlobal

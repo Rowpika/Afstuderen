@@ -1,0 +1,14 @@
+C:\Users\Rachen\source\repos\AfstuderenWeb\Afstuderen.Domain\bin\Debug\net6.0\Afstuderen.Domain.deps.json
+C:\Users\Rachen\source\repos\AfstuderenWeb\Afstuderen.Domain\bin\Debug\net6.0\Afstuderen.Domain.dll
+C:\Users\Rachen\source\repos\AfstuderenWeb\Afstuderen.Domain\bin\Debug\net6.0\Afstuderen.Domain.pdb
+C:\Users\Rachen\source\repos\AfstuderenWeb\Afstuderen.Domain\obj\Debug\net6.0\Afstuderen.Domain.csproj.AssemblyReference.cache
+C:\Users\Rachen\source\repos\AfstuderenWeb\Afstuderen.Domain\obj\Debug\net6.0\Afstuderen.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rachen\source\repos\AfstuderenWeb\Afstuderen.Domain\obj\Debug\net6.0\Afstuderen.Domain.AssemblyInfoInputs.cache
+C:\Users\Rachen\source\repos\AfstuderenWeb\Afstuderen.Domain\obj\Debug\net6.0\Afstuderen.Domain.AssemblyInfo.cs
+C:\Users\Rachen\source\repos\AfstuderenWeb\Afstuderen.Domain\obj\Debug\net6.0\Afstuderen.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rachen\source\repos\AfstuderenWeb\Afstuderen.Domain\obj\Debug\net6.0\Afstuderen.Domain.dll
+C:\Users\Rachen\source\repos\AfstuderenWeb\Afstuderen.Domain\obj\Debug\net6.0\refint\Afstuderen.Domain.dll
+C:\Users\Rachen\source\repos\AfstuderenWeb\Afstuderen.Domain\obj\Debug\net6.0\Afstuderen.Domain.pdb
+C:\Users\Rachen\source\repos\AfstuderenWeb\Afstuderen.Domain\obj\Debug\net6.0\ref\Afstuderen.Domain.dll
+C:\Users\Rachen\source\repos\AfstuderenWeb\Afstuderen.Domain\bin\Debug\net6.0\Afstuderen.Domain.runtimeconfig.json
+C:\Users\Rachen\source\repos\AfstuderenWeb\Afstuderen.Domain\obj\Debug\net6.0\Afstuderen.Domain.genruntimeconfig.cache
